@@ -1,0 +1,20 @@
+# Ignore hotspot files
+hotspots/
+
+# Ignore test data
+Test/
+
+# Ignore training data
+Train/
+
+#File types
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.shx
+*.tif
+*.csv
+*.xml
+*.iml
+*.idea
